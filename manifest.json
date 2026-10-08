@@ -2,7 +2,7 @@
   "name": "Tidegrid",
   "short_name": "Tidegrid",
   "description": "An ad-free octopus-themed block puzzle.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
