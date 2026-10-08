@@ -1,0 +1,14 @@
+{
+  "name": "Tidegrid",
+  "short_name": "Tidegrid",
+  "description": "An ad-free octopus-themed block puzzle.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#091d24",
+  "theme_color": "#0b2730",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
